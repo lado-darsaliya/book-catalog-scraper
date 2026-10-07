@@ -1,0 +1,8 @@
+Book Catalog Scraper Report
+Source: https://books.toscrape.com/
+Date: 2026-10-07 21:19
+Pages visited: 3
+Books collected: 60
+Duplicate records removed: 0
+Books with missing titles: 0
+Books with missing prices: 60
